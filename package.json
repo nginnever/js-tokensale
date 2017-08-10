@@ -1,0 +1,23 @@
+{
+  "name": "js-tokensale",
+  "version": "1.0.0",
+  "description": "A js library for creating and deploying token sales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nginnever/js-tokensale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nginnever/js-tokensale/issues"
+  },
+  "homepage": "https://github.com/nginnever/js-tokensale#readme",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.4",
+    "solc": "^0.4.15"
+  }
+}
