@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nginnever/js-tokensale#readme",
   "dependencies": {
     "ethereumjs-abi": "^0.6.4",
-    "solc": "^0.4.15"
+    "solc": "^0.4.15",
+    "truffle": "^3.4.8"
   }
 }
